@@ -1,5 +1,6 @@
 body{
     background-color: whitesmoke;
+    transition: 6s;
 }
 .container{
     background-color: rgb(195, 177, 153);
@@ -47,9 +48,10 @@ body{
     width: 200px;
     height: 315px;
     background-color:rgb(250, 239, 228);
-    margin-top: 50px;
+    margin-top: 40px;
     margin-right: 30px;
     border-radius: 20px;
+    overflow-y: hidden;
 }
 .mission h2{
     color: rgb(153, 134, 115);
