@@ -28,7 +28,7 @@ body{
 .pictureimage{
     width: 400px;
     height: 100vh;
-    background-image: url(/images/suit\ image\ 2.jpg);
+    background-image: url(/suit\ image\ 2.jpg);
     background-repeat: no-repeat;
     background-size: contain;
 }
